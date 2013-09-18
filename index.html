@@ -1,0 +1,23 @@
+---
+layout: default
+title: Adam Pash
+---
+
+{% for post in site.posts %}
+<div class="post">
+  <h2>
+    <a href="{{ post.url }}">
+      {{ post.title }}
+    </a>
+  </h2>
+
+  <div class="entry_body">
+    {{ post.content }}
+  </div>
+  <div class="meta">
+    <span class="date">
+      {{ post.date | date_to_string }}
+    </span>
+  </div>
+</div>
+{% endfor %}

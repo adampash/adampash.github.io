@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <!-- syntax highlighting CSS -->
+  <link rel="stylesheet" href="/css/syntax.css">
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/css/blog.css">
+</head>
+<body>
+
+  <div class="container">
+    <div id="sidebar" class="col-md-4" data-spy="affix">
+      <h1 class="col-xs-12 col-md-9">
+        <a href="/">
+          {{ site.name }}
+        </a>
+      </h1>
+      <h2 class="about col-xs-1  col-md-4">
+        <a href="/about">About</a>
+      </h2>
+    </div>
+    <div class="col-md-4">
+
+    </div>
+    <div id="main" class="col-md-6">
+      {{ content }}
+    </div>
+  </div>
+
+  <script src="/javascripts/jquery.js"></script>
+  <script src="/javascripts/bootstrap.js"></script>
+  <script src="/javascripts/posts.js"></script>
+</body>
+</html>

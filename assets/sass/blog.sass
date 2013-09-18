@@ -1,0 +1,116 @@
+@import "bootstrap"
+
+body
+  background: #f5f6f6
+  color: black
+  font-family: Brown, Helvetica, Arial
+
+.container
+  margin-top: 100px
+  h1, h2
+    margin-top: 10px
+
+a
+  color: black
+  &:hover
+    color: #ff6622
+    text-decoration: none
+
+
+// h1, h2
+//   a:hover
+
+#sidebar
+  // position: fixed
+  h1
+    font-weight: bold
+    font-size: 21px
+  h2.about
+    font-size: 16px
+    font-weight: normal
+    a
+      color: #999
+
+.post
+  margin-bottom: 75px
+  h2
+    font-weight: bold
+    font-size: 21px
+  .entry_body
+    font-family: Sentinel-Light, Helvetica, Arial
+    font-weight: normal
+    font-size: 19px
+    line-height: 29px
+    color: #333
+    a
+      color: #999
+      &:hover
+        color: #3388FF
+        text-decoration: none
+    blockquote
+      background: white
+      color: #444
+      width: 100%
+      padding: 9px 40px
+      margin: 28px 0
+      font-style: italic
+  .meta
+    color: #999
+
+@media (min-width: 0) and (max-width: 991px)
+  .affix 
+    position: static
+  .container
+    margin-top: 0
+    padding: 15px
+  #sidebar
+    border-bottom: 1px solid #ccc
+    h1
+      display: inline-block
+      width: 200px
+    .about
+      float: right
+      display: inline-block
+      margin-right: 10px
+  .post
+    margin-top: 20px
+
+@media (min-width: 0) and (max-width: 425px)
+  #sidebar
+    .about
+      margin-right: 25px
+      font-size: 21px
+  .post
+    .entry_body
+      blockquote
+        padding: 1px 25px
+
+
+@font-face
+  font-family: Brown
+  font-weight: normal
+  src: url('/fonts/Brown-Light.otf') format("opentype")
+@font-face
+  font-family: Brown
+  font-weight: bold
+  src: url('/fonts/Brown-Bold.otf') format("opentype")
+@font-face
+  font-family: Rockwell
+  font-weight: normal
+  src: url('/fonts/RockwellStd-Light.otf') format("opentype")
+@font-face
+  font-family: TisaOT
+  font-weight: normal
+  src: url('/fonts/TisaOT.otf') format("opentype")
+@font-face
+  font-family: Sentinel-Light
+  font-weight: normal
+  src: url('/fonts/Sentinel-Light.otf') format("opentype")
+@font-face
+  font-family: Sentinel-Light
+  font-style: italic
+  src: url('/fonts/Sentinel-LightItalic.otf') format("opentype")
+@font-face
+  font-family: Sentinel-Book
+  font-weight: normal
+  src: url('/fonts/Sentinel-Book.otf') format("opentype")
