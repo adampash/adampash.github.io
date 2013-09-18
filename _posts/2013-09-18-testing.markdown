@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Here's a sample post!"
-date:   2013-09-18 18:28:42
+date:   2013-09-18 20:28:42
 categories: blogging
 ---
 
