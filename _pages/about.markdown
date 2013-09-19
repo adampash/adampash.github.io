@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "About"
-date:   2013-09-20 18:28:42
 categories: jekyll update
+permalink: 'about'
 ---
 
 This is about me

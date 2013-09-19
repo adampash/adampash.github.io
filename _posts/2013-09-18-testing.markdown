@@ -2,7 +2,7 @@
 layout: post
 title:  "Here's a sample post!"
 date:   2013-09-18 20:28:42
-categories: blogging
+tags: blogging
 ---
 
 This is a blog.

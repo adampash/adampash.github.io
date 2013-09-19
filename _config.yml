@@ -1,3 +1,7 @@
 name: Adam Pash
 markdown: redcarpet
 pygments: true
+
+permalink: pretty
+
+timezone: America/New_York
