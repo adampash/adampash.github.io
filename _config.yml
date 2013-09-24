@@ -2,7 +2,7 @@ name: Adam Pash
 description: Writings about things
 url: http://adampash.github.com
 
-markdown: redcarpet
+markdown: maruku
 pygments: true
 
 permalink: pretty

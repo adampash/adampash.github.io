@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'github-pages'
+gem 'maruku'
 
 group :development do
   gem 'rake'

@@ -136,6 +136,7 @@ DEPENDENCIES
   guard-process
   guard-uglify
   juicer
+  maruku
   rake
   rb-fsevent
   rb-inotify
