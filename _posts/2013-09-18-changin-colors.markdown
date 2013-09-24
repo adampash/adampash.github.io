@@ -3,6 +3,7 @@ layout: post
 title:  "Makin' links change colors"
 date:   2013-09-18 18:28:42
 tags: coffeescript
+published: false
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
