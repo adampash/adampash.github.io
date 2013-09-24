@@ -3,7 +3,7 @@ layout: page
 title:  "About"
 ---
 
-My name is Adam Olin Pash. I'm grew up in [a small town in Iowa](http://www.cityofharlan.com/) (great web site), went to school at Iowa City, lived in Los Angeles, CA for eight years, and currently live in Brooklyn, NY. 
+My name is Adam Olin Pash. I'm grew up in [a small town in Iowa](http://www.cityofharlan.com/) (great web site), went to school in Iowa City, lived in Los Angeles, CA for eight years, and currently live in Brooklyn, NY. 
 
 I've done a lot of things on the internet, but if you've heard of any of them, it's probably [Lifehacker](http://lifehacker.com). I've also written for a number of other publications, like Wired, Popular Science, and PC World, and I've written [a couple of books](http://www.amazon.com/Adam-Pash/e/B001JRYOY6/). 
 
