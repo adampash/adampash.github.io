@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: page
 title:  "About"
-categories: jekyll update
-permalink: 'about'
+permalink: '/about/index.html'
 ---
 
 This is about me

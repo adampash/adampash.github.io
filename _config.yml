@@ -1,7 +1,12 @@
 name: Adam Pash
+description: Writings about things
+url: http://adampash.github.com
+
 markdown: redcarpet
 pygments: true
 
 permalink: pretty
 
 timezone: America/New_York
+
+include: [feed]

@@ -3,4 +3,4 @@ layout: page
 title:  "About"
 ---
 
-This is about me
+This is about me. Adam.

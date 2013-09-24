@@ -1920,40 +1920,43 @@ a {
   /* line 57, ../assets/sass/blog.sass */
   .post .meta {
     color: #999999; }
+  /* line 59, ../assets/sass/blog.sass */
+  .post code {
+    overflow-x: auto; }
 
 @media (min-width: 0) and (max-width: 991px) {
-  /* line 61, ../assets/sass/blog.sass */
+  /* line 63, ../assets/sass/blog.sass */
   .affix {
     position: static; }
 
-  /* line 63, ../assets/sass/blog.sass */
+  /* line 65, ../assets/sass/blog.sass */
   .container {
     margin-top: 0;
     padding: 15px; }
 
-  /* line 66, ../assets/sass/blog.sass */
+  /* line 68, ../assets/sass/blog.sass */
   #sidebar {
     border-bottom: 1px solid #cccccc; }
-    /* line 68, ../assets/sass/blog.sass */
+    /* line 70, ../assets/sass/blog.sass */
     #sidebar h1 {
       display: inline-block;
       width: 200px; }
-    /* line 71, ../assets/sass/blog.sass */
+    /* line 73, ../assets/sass/blog.sass */
     #sidebar .about {
       float: right;
       display: inline-block;
       margin-right: 10px; }
 
-  /* line 75, ../assets/sass/blog.sass */
+  /* line 77, ../assets/sass/blog.sass */
   .post {
     margin-top: 20px; } }
 @media (min-width: 0) and (max-width: 425px) {
-  /* line 80, ../assets/sass/blog.sass */
+  /* line 82, ../assets/sass/blog.sass */
   #sidebar .about {
     margin-right: 25px;
     font-size: 21px; }
 
-  /* line 85, ../assets/sass/blog.sass */
+  /* line 87, ../assets/sass/blog.sass */
   .post .entry_body blockquote {
     padding: 1px 25px; } }
 @font-face {
