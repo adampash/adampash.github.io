@@ -5,7 +5,7 @@ url: http://adampash.com
 markdown: maruku
 pygments: true
 
-permalink: pretty
+permalink: /:title
 
 timezone: America/New_York
 

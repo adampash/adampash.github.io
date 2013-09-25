@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "About"
+permalink: 'about/index.html'
 ---
 
 My name is Adam Olin Pash. I grew up in [a small town in Iowa](http://www.cityofharlan.com/) (great web site), went to school in Iowa City, lived in Los Angeles, CA for eight years, and currently live in Brooklyn, NY. 
