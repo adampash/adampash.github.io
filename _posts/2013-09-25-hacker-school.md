@@ -8,7 +8,7 @@ I took two introductory Computer Science courses between 2002 and 2003 while att
 
 It did not. The first course was terrible. I crossed my fingers that it was an exception and took another CS class the next semester with similar results. People who had prior programming experience seemed comfortable, but the rest of us were completely lost, and I can confidently say I learned nothing from either course.
 
-I managed to avoid ever choosing a major (opting instead to create an interdepartmental studies curriculum focused on philosophy[^symbolic] and religion that also suited my interests at the time), graduated, spent a summer working at [an ice cream factory in Le Mars, Iowa](http://www.bluebunny.com/), and moved to Los Angeles with [my friend Paul](https://twitter.com/paulrust) in August of 2004. 
+I managed to avoid ever choosing a major (opting instead to create an interdepartmental studies curriculum focused on philosophy [^symbolic] and religion that also suited my interests at the time), graduated, spent a summer working at [an ice cream factory in Le Mars, Iowa](http://www.bluebunny.com/), and moved to Los Angeles with [my friend Paul](https://twitter.com/paulrust) in August of 2004. 
 
 Having no idea what kind of job I wanted, I spent time [logging footage for a reality show](http://en.wikipedia.org/wiki/The_Real_Gilligan's_Island) (great job, btw) before taking a job as a consultant for the consulting branch of Hitachi — again thinking, "Hey, I still like technology; maybe I'll like this."
 
@@ -20,13 +20,13 @@ So in August of 2005, when Lifehacker's then-editor-in-chief [Gina Trapani](http
 
 I did not get the job. Two other editors were hired, and I took a job at a [Ted Nugent-based reality TV show](http://www.thesportsmanchannel.com/programming/descriptions/description.php?ID=579). While at work, I used my remote access setup to write and hack on a WordPress blog I'd put together, learning a tiny bit in the process about copying and pasting snippets of PHP.
 
-A few months later, Gina emailed me to ask if I was still interested in the job at Lifehacker. I said yes, and spent the next several months pretending I knew way more about technology, computers, and the internet than I did, until eventually I did know a little about those things. In my spare time, I continued pushing my limited coding skills, first in PHP (I used my home server to stream music from my home computer to other computers via the web), then in an obscure Windows scripting language called AutoHotkey, and eventually to Ruby, JavaScript, and a smattering of other languages and frameworks along the way.
+A few months later, Gina emailed me to ask if I was still interested in the job at Lifehacker. I said yes, and spent the next several months pretending I knew way more about technology, computers, and the internet than I did, until eventually I did know a little about those things. In my spare time, I continued pushing my limited coding skills, first learning a little HTML/CSS/PHP, [^streaming] then in an obscure Windows scripting language called AutoHotkey, [^ahk] and eventually to Ruby, JavaScript, and a smattering of other languages and frameworks along the way. [^other]
 
-I spent the next seven years, in my spare time, falling in love with programming. Days at Lifehacker (first as an associate editor, later as editor-in-chief), nights coding.
+I spent the next seven years, in my spare time, falling in love with programming. Days at Lifehacker (first as an associate editor, which is what we now call a "writer", eventually as editor-in-chief), nights coding.
 
 I left Lifehacker at the beginning of this year and joined a startup. I left that startup at the beginning of this month (another post) with one very specific goal in mind: I want to become a much better coder, and I want to spend my time making things with code.
 
-For twelve weeks, starting next Monday, September 30, I'll be attending [Hacker School](https://www.hackerschool.com/), which is:
+For twelve weeks, starting next Monday, September 30, I'll be attending [Hacker School](https://www.hackerschool.com/):
 
 > a three-month, full-time school in New York for becoming a better programmer. We're free as in beer, and provide space, a little structure, time to focus, and a friendly community of smart builders dedicated to self-improvement.
 
@@ -34,4 +34,7 @@ My decision to attend is the culmination of years of slowly inching toward a car
 
 Wish me luck.
 
-[^symbolic]: Incidentally, I was in love with my symbolic logic courses. If I had known then what I know now...
+[^symbolic]: Incidentally, I was in love with my symbolic logic courses. If I had known then that the enjoyment I felt working out a logic proof is nearly identical to the enjoyment I experience coding...
+[^streaming]: I used my home server to stream music from my home computer to other computers via the web.
+[^ahk]: I wrote and released several open-source apps on Lifehacker that I wrote in AHK, including [Texter](http://lifehacker.com/238306/lifehacker-code-texter-windows) and [Belvedere](http://lifehacker.com/341950/belvedere-automates-your-self+cleaning-pc). At one point Texter was deployed to ~10,000 Army doctors, which blew my mind.
+[^other]: The biggest project I released during this time was [MixTape.me](http://mixtape.me) (2009), a music streaming/playlist sharing service that taught me [a lot about building software](http://lifehacker.com/5336113/how-to-build-a-web-application-from-scratch-with-no-experience). More recently I grew interested in Chrome extensions, releasing a fairly popular [extension for Google Music](https://chrome.google.com/webstore/detail/music-plus-for-google-pla/ipfnecmlncaiipncipkgijboddcdmego?hl=en-US).

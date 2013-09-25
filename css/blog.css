@@ -1920,46 +1920,49 @@ a {
     /* line 57, ../assets/sass/blog.sass */
     .post .entry_body .footnotes {
       font-size: 16px; }
-  /* line 59, ../assets/sass/blog.sass */
+      /* line 59, ../assets/sass/blog.sass */
+      .post .entry_body .footnotes ol li p:last-of-type {
+        display: inline; }
+  /* line 61, ../assets/sass/blog.sass */
   .post .meta {
     color: #999999; }
-  /* line 61, ../assets/sass/blog.sass */
+  /* line 63, ../assets/sass/blog.sass */
   .post code {
     overflow-x: auto; }
 
 @media (min-width: 0) and (max-width: 991px) {
-  /* line 65, ../assets/sass/blog.sass */
+  /* line 67, ../assets/sass/blog.sass */
   .affix {
     position: static; }
 
-  /* line 67, ../assets/sass/blog.sass */
+  /* line 69, ../assets/sass/blog.sass */
   .container {
     margin-top: 0;
     padding: 15px; }
 
-  /* line 70, ../assets/sass/blog.sass */
+  /* line 72, ../assets/sass/blog.sass */
   #sidebar {
     border-bottom: 1px solid #cccccc; }
-    /* line 72, ../assets/sass/blog.sass */
+    /* line 74, ../assets/sass/blog.sass */
     #sidebar h1 {
       display: inline-block;
       width: 200px; }
-    /* line 75, ../assets/sass/blog.sass */
+    /* line 77, ../assets/sass/blog.sass */
     #sidebar .about {
       float: right;
       display: inline-block;
       margin-right: 10px; }
 
-  /* line 79, ../assets/sass/blog.sass */
+  /* line 81, ../assets/sass/blog.sass */
   .post {
     margin-top: 20px; } }
 @media (min-width: 0) and (max-width: 425px) {
-  /* line 84, ../assets/sass/blog.sass */
+  /* line 86, ../assets/sass/blog.sass */
   #sidebar .about {
     margin-right: 25px;
     font-size: 21px; }
 
-  /* line 89, ../assets/sass/blog.sass */
+  /* line 91, ../assets/sass/blog.sass */
   .post .entry_body blockquote {
     padding: 1px 25px; } }
 @font-face {
