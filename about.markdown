@@ -10,4 +10,4 @@ I've done a lot of things on the internet, but if you've heard of any of them, i
 
 I'm currently building things with code. You can follow me [on Twitter](https://twitter.com/adampash) or check me out [on GitHub](https://github.com/adampash/). You can email me at \[first.last\] at gmail.com and I'll get back to you asap.
 
-You're visiting my blog, and [this is what my blog is about](/2013/09/24/i%27m-blogging-again/).
+You're visiting my blog, and [this is what my blog is about](/im-blogging-again/).
