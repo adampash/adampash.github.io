@@ -32,7 +32,7 @@ The 300 Sandwiches woman may not be so lucky, mostly because I think she [miscal
 
 > Was our happily ever after as simple as making him a few sandwiches?
 
-Great question! No, it's not that simple! But you already new that. Unless by "happily ever after" you meant "financial success through selling the rights to my list of sandwiches," in which case, maybe. Your odds don't look as good as 40 Days, but we also live in a world where Seth MAcFarlane has 800 shows currently in production, so this might just work out for you.
+Great question! No, it's not that simple! But you already knew that. Unless by "happily ever after" you meant "financial success through selling the rights to my list of sandwiches," in which case, maybe. Your odds don't look as good as 40 Days, but we also live in a world where Seth MacFarlane has 800 shows currently in production, so this might just work out for you.
 
 ***
 
