@@ -4,7 +4,7 @@ title:      "300 days of horse twerk fails"
 published:  true
 ---
 
-_As the title indicates, this post is about authenticity on the internet in relation to Horse\_ebooks, twerk fail, 40 Days of Dating, and 300 Sandwiches._
+_This post is about authenticity on the internet in relation to Horse\_ebooks, twerk fail, 40 Days of Dating, and 300 Sandwiches._
 
 The internet is having a fresh moment of discomfort with authenticity. 
 
