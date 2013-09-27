@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "300 days of horse twerk fails"
+title:      "300 days of horse twerking"
 published:  true
 ---
 
