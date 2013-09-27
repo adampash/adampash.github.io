@@ -22,7 +22,7 @@ I did not get the job. Two other editors were hired, and I took a job at a [Ted 
 
 A few months later, Gina emailed me to ask if I was still interested in the job at Lifehacker. I said yes, and spent the next several months pretending I knew way more about technology, computers, and the internet than I did, until eventually I did know a little about those things. In my spare time, I continued pushing my limited coding skills, first learning a little HTML/CSS/PHP, [^streaming] then trying out an obscure Windows scripting language called AutoHotkey, [^ahk] and eventually learning Ruby, JavaScript, and a smattering of other languages and frameworks along the way. [^other]
 
-I spent the next seven years, in my spare time, falling in love with programming. Days at Lifehacker (first as an associate editor, which is what we now call a "writer", eventually as editor-in-chief), nights coding.
+I spent the next seven years, in my spare time, falling in love with programming. Days at Lifehacker (first as an associate editor, which is what we now call a "writer," eventually as editor-in-chief), nights coding.
 
 I left Lifehacker at the beginning of this year and joined a startup. I left that startup at the beginning of this month (another post) with one very specific goal in mind: I want to become a much better coder, and I want to spend my time making things with code.
 

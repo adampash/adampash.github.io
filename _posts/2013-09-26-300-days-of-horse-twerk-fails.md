@@ -12,7 +12,7 @@ On Monday, Susan Orlean [revealed the non-bot identity of Horse_ebooks](http://w
 
 Earlier this month, Jimmy Kimmel "tricked the internet" with an [fake twerk fail video](http://www.youtube.com/watch?feature=player_embedded&v=CddMD3QqTFs) that grabbed some nine million views before Kimmel [let everyone in on the joke](http://www.youtube.com/watch?v=HSJMoH7tnvw).
 
-Both Horse_ebooks and the twerk fail video had skeptics, but by and large they were assumed to be "real", and their respective reveals got a lot of people very worked up.
+Both Horse_ebooks and the twerk fail video had skeptics, but by and large they were assumed to be "real," and their respective reveals got a lot of people very worked up.
 
 The internet as a mass media machine is still pretty young, and I think much of the reason authenticity is still an issue is due to that newness. We're by no means, for example, uncomfortable living in an authenticity gray area when it comes to things like reality TV. You don't have to be a sophisticated viewer to understand that much of what you're seeing on most reality TV is only real to the extent that the people are real (like, they're using their real names) but that many of their interactions are scripted or manipulated to tell a story that's not exactly real.
 
