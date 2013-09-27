@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Hacker School
-published:  false
+published:  true
 ---
 
 I took two introductory Computer Science courses between 2002 and 2003 while attending college at the University of Iowa. I hadn't declared a major, loved working with computers, and hoped that that might translate into a career, of some sort, in technology. Or at least a major, which — after two undeclared years — was about as far ahead as I was planning at the time.
@@ -26,11 +26,11 @@ I spent the next seven years, in my spare time, falling in love with programming
 
 I left Lifehacker at the beginning of this year and joined a startup. I left that startup at the beginning of this month (another post) with one very specific goal in mind: I want to become a much better coder, and I want to spend my time making things with code.
 
-For twelve weeks, starting next Monday, September 30, I'll be attending [Hacker School](https://www.hackerschool.com/):
+For twelve weeks, starting next Monday, September 30, I'll be attending [Hacker School](https://www.hackerschool.com/).
 
-> a three-month, full-time school in New York for becoming a better programmer. We're free as in beer, and provide space, a little structure, time to focus, and a friendly community of smart builders dedicated to self-improvement.
+> Hacker School is a three-month, full-time school in New York for becoming a better programmer. We're [free as in beer](http://en.wikipedia.org/wiki/Free_as_in_beer), and provide space, a little structure, time to focus, and a friendly community of smart builders dedicated to self-improvement.
 
-My decision to attend is the culmination of years of slowly inching toward a career spent making things with code. I'm excited to get started, and I'll let you know how it goes.
+My decision to attend is the culmination of years of slowly inching toward a career spent making things with code. 
 
 Wish me luck.
 

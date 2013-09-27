@@ -1926,43 +1926,46 @@ a {
   /* line 61, ../assets/sass/blog.sass */
   .post .meta {
     color: #999999; }
-  /* line 63, ../assets/sass/blog.sass */
+    /* line 64, ../assets/sass/blog.sass */
+    .post .meta .date a {
+      color: #999999; }
+  /* line 66, ../assets/sass/blog.sass */
   .post code {
     overflow-x: auto; }
 
 @media (min-width: 0) and (max-width: 991px) {
-  /* line 67, ../assets/sass/blog.sass */
+  /* line 70, ../assets/sass/blog.sass */
   .affix {
     position: static; }
 
-  /* line 69, ../assets/sass/blog.sass */
+  /* line 72, ../assets/sass/blog.sass */
   .container {
     margin-top: 0;
     padding: 15px; }
 
-  /* line 72, ../assets/sass/blog.sass */
+  /* line 75, ../assets/sass/blog.sass */
   #sidebar {
     border-bottom: 1px solid #cccccc; }
-    /* line 74, ../assets/sass/blog.sass */
+    /* line 77, ../assets/sass/blog.sass */
     #sidebar h1 {
       display: inline-block;
       width: 200px; }
-    /* line 77, ../assets/sass/blog.sass */
+    /* line 80, ../assets/sass/blog.sass */
     #sidebar .about {
       float: right;
       display: inline-block;
       margin-right: 10px; }
 
-  /* line 81, ../assets/sass/blog.sass */
+  /* line 84, ../assets/sass/blog.sass */
   .post {
     margin-top: 20px; } }
 @media (min-width: 0) and (max-width: 425px) {
-  /* line 86, ../assets/sass/blog.sass */
+  /* line 89, ../assets/sass/blog.sass */
   #sidebar .about {
     margin-right: 25px;
     font-size: 21px; }
 
-  /* line 91, ../assets/sass/blog.sass */
+  /* line 94, ../assets/sass/blog.sass */
   .post .entry_body blockquote {
     padding: 1px 25px; } }
 @font-face {

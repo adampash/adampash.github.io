@@ -14,7 +14,9 @@ layout: default
   </div>
   <div class="meta">
       <div class="date">
-        {{ page.date | date: "%B %e, %Y" }}
+        <a href="{{ post.url }}">
+          {{ page.date | date: "%B %e, %Y" }}
+        </a>
       </div>
       <br />
       <div class="date">
