@@ -14,6 +14,6 @@ Last week, a little lonely for Los Angeles, I bought and started playing Grand T
 
 Lifeinvader, in GTA's consistent brand of shallow, nihilistic parody, is the Facebook of the Los Santos universe. 
 
-There's absolutely no reason for it, other than the obvious (the words "Lifeinvader" and "Lifehacker" look alike), but after staring at different variations of that logo every work day for seven years, seeing Lifehacker make its way to the cultural soup of GTA put a pretty big smile on my face. 
+There's absolutely no reason for the connection other than the obvious (the words "Lifeinvader" and "Lifehacker" look alike), but after staring at different variations of that logo every work day for seven years, seeing Lifehacker make its way to the cultural soup of GTA put a pretty big smile on my face. 
 
 [^Patric]: Patric provided the initial designs for [a handful of Gawker sites](http://houseofpretty.com/), including Defamer (2004), Jezebel (2007) and io9 (2008).
