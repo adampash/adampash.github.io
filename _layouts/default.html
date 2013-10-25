@@ -6,6 +6,13 @@
   <title>{{ page.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
+  <!-- twitter card -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@adampash">
+  <meta name="twitter:creator" content="@adampash">
+  <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:description" content="{{ page.content | strip_html | truncatewords: 25 }}">
+
   <!-- syntax highlighting CSS -->
   <link rel="stylesheet" href="/css/syntax.css">
 
