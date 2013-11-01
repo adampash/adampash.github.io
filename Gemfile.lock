@@ -58,7 +58,7 @@ GEM
     guard-uglify (0.1.0)
       guard (>= 0.2.2)
       uglifier
-    highline (1.6.19)
+    highline (1.6.20)
     http_parser.rb (0.5.3)
     jekyll (1.2.0)
       classifier (~> 1.3)
