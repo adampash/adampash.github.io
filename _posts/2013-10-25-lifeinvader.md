@@ -16,4 +16,4 @@ Lifeinvader, in GTA's consistent brand of shallow, nihilistic parody, is the Fac
 
 There's absolutely no reason for the connection other than the obvious (the words "Lifeinvader" and "Lifehacker" look alike), but after staring at different variations of that logo every work day for seven years, seeing Lifehacker make its way to the cultural soup of GTA put a pretty big smile on my face. 
 
-[^Patric]: Patric provided the initial designs for [a handful of Gawker sites](http://houseofpretty.com/), including Defamer (2004), Jezebel (2007) and io9 (2008).
+[^Patric]: Patric provided the initial designs for [a handful of Gawker sites](http://houseofpretty.com/) (update: make that [most of them](https://twitter.com/patricking/status/393868252222205952)), including Defamer (2004), Jezebel (2007) and io9 (2008).
