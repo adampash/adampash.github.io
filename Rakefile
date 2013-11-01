@@ -6,7 +6,7 @@ require "jekyll"
 
 
 # Change your GitHub reponame
-GITHUB_REPONAME = "adampash/adampash.github.com"
+GITHUB_REPONAME = "adampash/adampash.github.io"
 
 
 desc "Generate blog files"
