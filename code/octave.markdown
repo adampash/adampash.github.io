@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "How to install Octave on OS X"
-permalink: 'code/octave/index.html'
+permalink: 'code/octave'
 ---
 
 After twice wasting an hour or so installing Octave for the [Stanford Machine Learning class](https://class.coursera.org/ml-004/class/index), I decided I should jot this down for posterity or anyone else in a similar position. This should give you a working Octave install that plays nice with Gnuplot. (Most of this comes from [Octave's wiki](http://wiki.octave.org/Octave_for_MacOS_X#Simple_Installation_Instructions_3) with help from a StackOverflow post or two.)
