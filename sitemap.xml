@@ -17,12 +17,14 @@ layout: nil
   </url>
   {% endfor %}
   {% for page in site.pages %}
+  {% if page.url != '/sitemap.xml' %}
   <url>
-    <loc>{{ site.url }}{{ page.url }}</loc>
-    <lastmod>{{ page.sitemap.lastmod | date_to_xmlschema }}</lastmod>
+    <loc>{{ site.url }}{{ page.dir }}{{ page.url | split: 'index.html' | first  }}</loc>
+    <lastmod>{{ page.path | file_date | date_to_xmlschema }}</lastmod>
     <changefreq>{{ page.sitemap.changefreq }}</changefreq>
     <priority>{{ page.sitemap.priority }}</priority>
   </url>
+  {% endif %}
   {% endfor %}
 
 </urlset>
