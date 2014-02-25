@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-Disallow: /config/
-Sitemap: http://adampash.com/sitemap.xml
