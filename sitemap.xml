@@ -20,7 +20,9 @@ layout: nil
   {% if page.url contains "index.html" %}
   <url>
     <loc>{{ site.url }}{{ page.dir }}{{ page.url | split: 'index.html' | first  }}</loc>
+    {% if file_date %}
     <lastmod>{{ page.path | file_date | date_to_xmlschema }}</lastmod>
+    {% endif %}
   </url>
   {% endif %}
   {% endfor %}
