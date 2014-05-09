@@ -23,7 +23,9 @@ Since it launched, I've tried four or five different methods for optimizing how 
 
 I've also streamlined the process from visiting the site to making a gif. You're never prompted to sign in (though you can still log in and associate your gifs with an account if you want to).
 
-Last, I've added a couple of features to your editing options, including adjustable playback speed (see speedy-typing gif above).
+When you're making a gif &mdash; in addition to changing the way gifs loop &mdash; you can now adjust playback speed (see speedy-typing gif above).
+
+Last, if you've got an Android phone, you can make gifs in Chrome for Android using your phone's camera.
 
 If you're interested in giving it a try, it's just one click away (no login required). If you've got feedback, please [don't hesitate to share](mailto:hi@andtheniwaslike.co?subject=You%20asked%20for%20it).
 
