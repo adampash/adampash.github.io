@@ -4,7 +4,7 @@ title:      And then I was like ...
 published:  true
 ---
 
-![And then I was like ...](/assets/atiwl.png)
+![And then I was like ...](/assets/atiwl_adampash.png)
 
 Three months ago, [Ellen](http://ellenflaherty.com/) and I soft-launched [And then I was like](https://andtheniwaslike.co/), a web app that lets you make animated gifs with your webcam. Our basic goals were to:
 
