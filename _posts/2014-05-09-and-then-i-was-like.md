@@ -9,7 +9,7 @@ published:  true
 Three months ago, [Ellen](http://ellenflaherty.com/) and I soft-launched [And then I was like](https://andtheniwaslike.co/), a web app that lets you make animated gifs with your webcam. Our basic goals were to:
 
 1. Make something fun.
-2. Try our hand at working together on a project.
+2. Try our hands at working together on a project.
 3. Work with some interesting new technologies.
 4. Seed the world with more than the same warmed-over gallery of gifs that make the rounds on tumblr, reframing the gif as a more participatory medium.
 
