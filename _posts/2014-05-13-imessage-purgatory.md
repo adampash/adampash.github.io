@@ -12,7 +12,7 @@ Great! But not, because it didn't change anything. I'm still not receiving text 
 
 So I called up Apple tech support again, using [Ellen](http://ellenflaherty.com)'s new iPhone 5c as my supported device (if she can't text me, it's a tech support problem for her, too, I guess). After 10 minutes walking through various steps I'd already taken and others that were completely impractical (Apple Support: "Can you try deleting the contact from your new iPhone and re-adding it?" Me: "I can't tell everyone I know to delete and re-add me as a contact."), my tech support person told me that I was breaking up, and that she needed to call me back. 
 
-I hung up, and when she called back, she called me back, then explained:
+I hung up; she called me back, then explained:
 
 1. This is a problem that a lot of people have been facing.
 2. The engineering team is working on it but is apparently clueless as to how to fix it.
