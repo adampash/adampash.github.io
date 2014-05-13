@@ -14,7 +14,7 @@ So I called up Apple tech support again, using [Ellen](http://ellenflaherty.com)
 
 I hung up; she called me back, then explained:
 
-1. This is a problem that a lot of people have been facing.
+1. This is a problem a lot of people are facing.
 2. The engineering team is working on it but is apparently clueless as to how to fix it.
 3. There are no reliable solutions right now — for some people the standard fixes work immediately; many others are in my boat.
 
