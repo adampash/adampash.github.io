@@ -9,6 +9,7 @@ I've gotten many, many helpful emails and tweets with tips for how to fix my [iM
 For the record, I still have my old iPhone, so I can easily swap the SIM card back into it and perform common fixes. Here are at least a few of the things I've tried:
 
 * Reset my Apple ID password
+* Turn off iMessage in the Settings app
 * Log out of Messages and FaceTime on all my devices
 * Text STOP to 48369
 * Remove my device from My Support Profile (https://supportprofile.apple.com/)
