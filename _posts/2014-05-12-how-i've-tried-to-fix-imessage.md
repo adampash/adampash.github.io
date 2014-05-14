@@ -16,3 +16,5 @@ For the record, I still have my old iPhone, so I can easily swap the SIM card ba
 The phone number in question is not associated with my Apple ID anymore. If I log into my Apple account in the Messages setting, that number doesn't show up as a send/receive option. But on the iDevices of my friends and family, that number still appears to be associated with iMessage.
 
 If you've got a suggestion I haven't listed above, let me know! I've tried a lot over the past week, so I'm sure there are a couple I've forgotten about. I'm also not including terrible solutions, like "have everyone you know delete you as a contact and re-add you" or "have everyone you know delete all previous conversations with you." Incidentally, I've tried these things on Ellen's phone and she still can't send me a text.
+
+(I'll try to update this with any new fixes worth mentioning &mdash; and hopefully, eventually, one that works.)
