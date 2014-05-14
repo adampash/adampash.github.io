@@ -3,7 +3,7 @@
   $.ajax(
     {
       // url: 'http://analytic.adampash.com/hit',
-      url: 'http://localhost:3000/hit',
+      url: 'http://analytic.adampash.com/hit',
       type: 'PUT',
       data: {url: window.location.href}
     }
