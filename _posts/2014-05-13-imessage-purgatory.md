@@ -23,3 +23,5 @@ In the meantime, Apple has completely hijacked my text messaging and my phone nu
 I thought iMessage was pretty novel when Apple launched it. Providers were charging an absurd mark-up on SMS delivery, and the switch between iMessage and SMS was seamless enough to be almost invisible to the user, save the green vs. blue bubbles, which are in their own way a sort of weird social/status indicator ("omg why doesn't Nathan have an iPhone?").
 
 But if it breaks, which it apparently has, it means Apple has crippled an entire medium for communication. Most of my friends have iPhones. My phone number hasn't changed. But my number is now a black hole for text messages.
+
+_Update_: If you're wondering, [here are most of the supposed solutions I've tried](/how-i%27ve-tried-to-fix-imessage) with no success.
