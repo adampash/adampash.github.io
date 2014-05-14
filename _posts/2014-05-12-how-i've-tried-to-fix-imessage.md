@@ -18,4 +18,13 @@ The phone number in question is not associated with my Apple ID anymore. If I lo
 
 If you've got a suggestion I haven't listed above, let me know! I've tried a lot over the past week, so I'm sure there are a couple I've forgotten about. I'm also not including terrible solutions, like "have everyone you know delete you as a contact and re-add you" or "have everyone you know delete all previous conversations with you." Incidentally, I've tried these things on Ellen's phone and she still can't send me a text.
 
+_Update_: I was able to fix the problem on a per-phone basis  by doing the following:
+
+1. Open Settings > Messages.
+2. Toggle iMessage to Off.
+3. Send a text to the black-hole number. (It should send as SMS.)
+4. Turn iMessage back on in Settings > Messages.
+
+Of course, the only phone I have access to is Ellen's, and I'm not about to ask all of my contacts to do this. At least now Ellen can text me, but that's nothing close to a solution.
+
 (I'll try to update this with any new fixes worth mentioning &mdash; and hopefully, eventually, one that works.)
