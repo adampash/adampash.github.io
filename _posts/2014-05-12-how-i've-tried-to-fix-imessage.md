@@ -18,7 +18,7 @@ The phone number in question is not associated with my Apple ID anymore. If I lo
 
 If you've got a suggestion I haven't listed above, let me know! I've tried a lot over the past week, so I'm sure there are a couple I've forgotten about. I'm also not including terrible solutions, like "have everyone you know delete you as a contact and re-add you" or "have everyone you know delete all previous conversations with you." Incidentally, I've tried these things on Ellen's phone and she still can't send me a text.
 
-_Update_: I was able to fix the problem on a per-phone basis  by doing the following:
+<a name="update1"></a>[_Update_](#update1): I was able to fix the problem on a per-phone basis  by doing the following:
 
 1. Open Settings > Messages.
 2. Toggle iMessage to Off.
