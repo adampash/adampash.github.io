@@ -48,4 +48,4 @@ setenv ("GNUTERM", "X11")
 PS1('❯❯ ')
 {% endhighlight %}
 
-I'm pretty sure that should get you up and running, but in case I missed a step, feel free to send me an email or a [fix it for me](https://github.com/adampash/adampash.github.io/edit/source/code/octave.markdown).
+I'm pretty sure that should get you up and running, but in case I missed a step, feel free to send me an email or [fix it for me](https://github.com/adampash/adampash.github.io/edit/source/code/octave.markdown).
