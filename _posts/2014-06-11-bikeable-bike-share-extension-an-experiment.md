@@ -14,7 +14,7 @@ Click that button and you see that station on a map along with walking direction
 
 It also allows you to quickly search for stations near other places in your city. It's a relatively simple extension, and you'll find plenty of tools to show bike station data on a map, but as an enthusiastic user of Citi Bike in NYC, I've found that most of the time, all I really want to know is whether my nearest station has any bikes available. (Particularly when I'm at home or work.) This extension provides that information at a glance.
 
-Apart from the basic functionality, I teamed up with [Ellen](http://ellenflaherty.com/) to put some love into designing.
+Apart from the basic functionality, I teamed up with [Ellen](http://ellenflaherty.com/) to put some love into the design.
 
 If you participate in any bike share program in one of the supported cities (currently those include NYC, SF, Chicago, Columbus, OH, Aspen, CO, and Chattanooga, TN), I think you'll find it really useful. (In fact, if you're visiting any of these cities, the extension automatically switches to the appropriate data for that city.)
 
@@ -26,9 +26,9 @@ I've developed and released a fair amount of free (as in beer) and Free ([as in 
 
 In all the years I worked at Lifehacker, I was always a little averse to software that cost money. That doesn't mean I wouldn't cover an app with a price tag, but if given the option, I'd tend to give preference to the free (and ideally open source) alternative.
 
-I've changed as I've aged. Primarily, I grown more sensitive to how a piece of software makes me feel. Things built with care &mdash; that are designed well &mdash; make me feel good when I'm using them. Those are things, more and more, that I'm willing to pay money for. (There's a whole other issue concerning the broken ecosystem of consumer tech in general, in which everyone's doing cheap R&D for huge coorporations hoping to hit acquisition pay dirt, meanwhile setting expectations that all software should be free. That's another post.)
+I've changed as I've aged. Primarily, I've grown more sensitive to how a piece of software makes me feel. Things built with care &mdash; that are designed well &mdash; make me feel good when I'm using them. More and more, that's software I'm willing to pay money for. (There's a whole other issue concerning the broken ecosystem of consumer tech in general, in which everyone's doing cheap R&D for huge coorporations hoping to hit acquisition pay dirt, meanwhile setting expectations that all software should be free. That's another post.)
 
-![Bikeable](/assets/bikeable_1400x560.png)
+[![Bikeable](/assets/bikeable_1400x560.png)](https://chrome.google.com/webstore/detail/bikeable/fhejldjgodfhngakfadepcfclmahfnaf/)
 
 So yes, this small, simple [Bikeable Chrome extension](https://chrome.google.com/webstore/detail/fhejldjgodfhngakfadepcfclmahfnaf/) costs about the same as a piece of junk you'd pick up at a 99-cent store without giving it a second thought. I'm pretty interested to see how that turns out.
 
