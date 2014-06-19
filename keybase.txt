@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/adampash
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://adampash
+  * I am adampash (https://keybase.io/adampash) on keybase.
+  * I have a public key with fingerprint 4430 3B96 6A02 59AE FD36  BA7F 5066 A3C3 2EA3 6D5F
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "44303b966a0259aefd36ba7f5066a3c32ea36d5f",
+            "host": "keybase.io",
+            "key_id": "5066a3c32ea36d5f",
+            "uid": "bb3ef2608cb8e3288c26ee4066858b00",
+            "username": "adampash"
+        },
+        "service": {
+            "hostname": "adampash",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1403187906,
+    "expire_in": 157680000,
+    "prev": "82ddb942916a5d74baef212e7aa3e60cd2ef580bf561d3526c8d3a7fde43bb83",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.22
+Comment: https://keybase.io/crypto
+
+yMHjAnicbZFfSBRbHMdn0ySXViPwQeVqDFws2GR2/u3s5g3Jq6ioFEY+JCznzJzZ
+nXR3ppnZXW2viQ/mpqKRcRMMJP/00B8iwhLpQZdSahGvIHgTQ4isi7o+SG8bF89I
+vUTn5XC+5/P9/s75/V47Mgi7bSWdcevfcz0PbMnZVJhoHNtLxEioSu2kN0a2oINN
+VkJ+pGu6EjJJL8myDMVAD88DiuY8AMkSw0PgljkKS4zI0AgwvMTJpJMMqIblwDEQ
+GKhUUbGGDz5Fwuov+PDBBYQMkmmeEkQoIIYWBJHmEWIxLnACpCgLNJAeAkGEaSCB
+oAaMANnhJLEaUUSsxg5K/0w4SU1XTVVUW7EaME3Na5nMds2iogj6vvt9UAlJ+M/Y
+EEG6oagh0uvCpGgqVqCLpRiX4PZQvJNEbZqiI59iEZybFyi8rDIogiMFWpKgh6U9
+Lh5wkpuFuFm0i0ZuABjEU6JEI5kTKChzvEtiOJoXBYnBnZQQy0AoMLi+ga6GVNLL
+4WcCP440FH8ImGEdkR2J2eZMwmYnsg4fsqZG2LOP/ZjlZXCEuENVqU/qHbvvQF08
+lvOxf4Wdr79eJ2m9c28qSk78ft9W9MK5406ffDbxd0pejbctzRzfXkxdWtbSNqKp
+MP+oemG8zBEsuGKklcI8Yjp/IV5TUv7cfbZuyNZbMLM5OJBMbH2t6ulubCnr+uO2
+vfBx1gBlKx9KjbxNbk9Wzvcl1szcT8FR1tFapEVvxIubOkdrxqo3nn5g+0v7a7/8
++TC7ejjP1x5d/T9p9PXsfRvseFlc2ZlPd+ecqdgKPjo9+FfN+N2CqVPj5zM3b1Zn
+LKzPmVN65/BvF3cmJnenF5dHlsz/umrDr/wzA80bgfdzkdyG9Xu+tWgm/0+wYeHa
+531vrRKK
+=BQPG
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/adampash
+
+==================================================================
