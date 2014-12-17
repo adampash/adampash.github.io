@@ -7,3 +7,8 @@ To publish:
 ```
 rake publish
 ```
+
+To write/preview:
+```
+jekyll serve -w
+```
