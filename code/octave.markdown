@@ -5,8 +5,6 @@ permalink: 'how-to-install-octave/index.html'
 tags: code
 ---
 
-Updated with Yosemite changes.
-
 After twice wasting an hour or so installing Octave for the [Stanford Machine Learning class](https://class.coursera.org/ml-004/class/index), I decided I should jot this down for posterity or anyone else in a similar position. This should give you a working Octave install that plays nice with Gnuplot. (Most of this comes from [Octave's wiki](http://wiki.octave.org/Octave_for_MacOS_X#Simple_Installation_Instructions_3) with help from a StackOverflow post or two.)
 
 Instead of using the Octave installation package as [recommended in the course notes](https://class.coursera.org/ml-004/wiki/view?page=octave-matlab#mac) (this results in the problems we're trying to avoid), I'll be installing Octave via [Homebrew](http://brew.sh/), which fixed a lot of my initial install problems.
