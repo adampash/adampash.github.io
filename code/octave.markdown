@@ -38,7 +38,7 @@ export PATH=$PATH:/usr/texbin
 brew install octave --with-x11
 
 # install fltk for gnuplot
-  brew install fltk
+brew install fltk
 
 # install gnuplot (this may be installed as part of octave now)
 brew install gnuplot
