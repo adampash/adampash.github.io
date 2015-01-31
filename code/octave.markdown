@@ -41,7 +41,7 @@ brew install octave --with-x11
 brew install fltk
 
 # install gnuplot (this may be installed as part of octave now)
-brew install gnuplot
+brew install gnuplot --with-x11
 {% endhighlight %}
 
 Last, you need to edit your .octaverc file to get gnuplot to play nicely with Octave. So, in your home directory, create a new .octaverc file and paste the following:
