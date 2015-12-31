@@ -25,9 +25,6 @@ brew tap homebrew/science
 # install some Octave dependencies
 # the update/upgrade command below could take a while
 brew update && brew upgrade
-brew install gfortran
-
-# on Yosemite, you gfortran isn't available so use this instead
 brew install gcc
 
 # You may also need to install mactex (see http://tex.stackexchange.com/questions/97183/what-are-the-practical-differences-between-installing-latex-from-mactex-or-macpo)
@@ -39,9 +36,6 @@ brew install octave --with-x11
 
 # install fltk for gnuplot
 brew install fltk
-
-# install gnuplot (this may be installed as part of octave now)
-brew install gnuplot --with-x11
 {% endhighlight %}
 
 Last, you need to edit your .octaverc file to get gnuplot to play nicely with Octave. So, in your home directory, create a new .octaverc file and paste the following:
