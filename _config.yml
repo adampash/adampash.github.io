@@ -1,9 +1,10 @@
 name: Adam Pash
 description: Writings about things
 url: http://adampash.com
-relative_permalinks: false
-markdown: maruku
-pygments: true
+highlighter: pygments
+
+kramdown:
+  input: GFM
 
 permalink: /:title
 
