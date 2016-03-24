@@ -10,4 +10,4 @@ permalink: /:title
 
 timezone: America/New_York
 
-include: [feed]
+include: [feed, .well-known/acme-challenge/RwAkBf87N7ypJlM4XUHIwO704mEkaYekOB3-iW2xSsQ]
