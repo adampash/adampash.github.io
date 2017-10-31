@@ -38,6 +38,9 @@ brew install octave --with-x11
 brew install fltk
 {% endhighlight %}
 
+# you might need to install legacy Java 6 runtime
+https://support.apple.com/kb/DL1572?locale=en_US
+
 Last, you need to edit your .octaverc file to get gnuplot to play nicely with Octave. So, in your home directory, create a new .octaverc file and paste the following:
 
 {% highlight bash %}
