@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adam Pash</title>
+    <description>Writings about things</description>
+    <link>http://adampash.com</link>
+    <atom:link href="http://adampash.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>The Bikeable bike share extension: An experiment</title>
+        <description>&lt;p&gt;Today I released &lt;a href=&quot;https://chrome.google.com/webstore/detail/bikeable/fhejldjgodfhngakfadepcfclmahfnaf&quot;&gt;a Chrome extension called Bikeable&lt;/a&gt; that uses public data for bike share programs in cities like New York (&lt;a href=&quot;http://www.citibikenyc.com/&quot;&gt;Citi Bike&lt;/a&gt;), San Francisco (&lt;a href=&quot;https://www.bayareabikeshare.com/&quot;&gt;Bay Area Bike Share&lt;/a&gt;), and Chicago (&lt;a href=&quot;https://www.divvybikes.com/&quot;&gt;Divvy Bikes&lt;/a&gt;) along with your location to show you the number of bikes available at the nearest bike share station next to your browser’s address bar.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/bikeable_screenshot_1.png&quot; alt=&quot;Bikeable&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Click that button and you see that station on a map along with walking directions and estimated time to get there.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/bikeable_screenshot_2.png&quot; alt=&quot;Bikeable&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It also allows you to quickly search for stations near other places in your city. It’s a relatively simple extension, and you’ll find plenty of tools to show bike station data on a map, but as an enthusiastic user of Citi Bike in NYC, I’ve found that most of the time, all I really want to know is whether my nearest station has any bikes available. (Particularly when I’m at home or work.) This extension provides that information at a glance.&lt;/p&gt;
+
+&lt;p&gt;Apart from the basic functionality, I teamed up with &lt;a href=&quot;http://ellenflaherty.com/&quot;&gt;Ellen&lt;/a&gt; to put some love into the design.&lt;/p&gt;
+
+&lt;p&gt;If you participate in any bike share program in one of the supported cities (currently those include NYC, SF, Chicago, Columbus, OH, Aspen, CO, and Chattanooga, TN), I think you’ll find it really useful. (In fact, if you’re visiting any of these cities, the extension automatically switches to the appropriate data for that city.)&lt;/p&gt;
+
+&lt;p&gt;So, on to the experiment:&lt;/p&gt;
+
+&lt;h3 id=&quot;im-charging-099-for-it-will-anyone-buy-it&quot;&gt;I’m charging $0.99 for it. Will anyone buy it?&lt;/h3&gt;
+
+&lt;p&gt;I’ve developed and released a fair amount of free (as in beer) and Free (&lt;a href=&quot;http://en.wikipedia.org/wiki/Free_as_in_speech&quot;&gt;as in speech&lt;/a&gt;) software and web applications over the years, and that software has been used by hundreds of thousands of people. At most I’ve asked for donations (amazingly, a small number of amazing people actually donate a couple bucks on occasion). But as I’d like to be able to make some money developing and releasing software, I’ve decided to test out this grand capitalist experiment by charging money for things I make.&lt;/p&gt;
+
+&lt;p&gt;In all the years I worked at Lifehacker, I was always a little averse to software that cost money. That doesn’t mean I wouldn’t cover an app with a price tag, but if given the option, I’d tend to give preference to the free (and ideally open source) alternative.&lt;/p&gt;
+
+&lt;p&gt;I’ve changed as I’ve aged. Primarily, I’ve grown more sensitive to how a piece of software makes me feel. Things built with care — that are designed well — make me feel good when I’m using them. More and more, that’s software I’m willing to pay money for. (There’s a whole other issue concerning the broken ecosystem of consumer tech in general, in which everyone’s doing cheap R&amp;amp;D for huge coorporations hoping to hit acquisition pay dirt, meanwhile setting expectations that all software should be free. That’s another post.)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/bikeable/fhejldjgodfhngakfadepcfclmahfnaf/&quot;&gt;&lt;img src=&quot;/assets/bikeable_1400x560.png&quot; alt=&quot;Bikeable&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;So yes, this small, simple &lt;a href=&quot;https://chrome.google.com/webstore/detail/fhejldjgodfhngakfadepcfclmahfnaf/&quot;&gt;Bikeable Chrome extension&lt;/a&gt; costs about the same as a piece of junk you’d pick up at a 99-cent store without giving it a second thought. I’m pretty interested to see how that turns out.&lt;/p&gt;
+
+&lt;p&gt;If you use a bike share program in any of the supported cities, I encourage you to &lt;a href=&quot;https://chrome.google.com/webstore/detail/fhejldjgodfhngakfadepcfclmahfnaf/&quot;&gt;download it&lt;/a&gt;. If you live in a city with a bike share program that isn’t supported but you’re interested, let me know.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 11 Jun 2014 00:00:00 -0400</pubDate>
+        <link>http://adampash.com/bikeable-bike-share-extension-an-experiment</link>
+        <guid isPermaLink="true">http://adampash.com/bikeable-bike-share-extension-an-experiment</guid>
+      </item>
+    
+      <item>
+        <title>iMessage purgatory</title>
+        <description>&lt;p&gt;I recently switched from an iPhone to Android, and discovered shortly thereafter that my phone number was still associated with iMessage, meaning that any time someone with an iPhone tried texting me, I’d receive nothing, and they’d get a “Delivered” receipt in their Messages app as though everything were working as expected.&lt;/p&gt;
+
+&lt;p&gt;I spent the better part of a day trying to fix the problem on my own (mostly because Apple’s support tries to extort $20 from you unless you have a device with an active support plan), and eventually succeeded in getting my phone number removed from my Apple ID.&lt;/p&gt;
+
+&lt;p&gt;Great! But not, because it didn’t change anything. I’m still not receiving text messages from anyone with an iPhone.&lt;/p&gt;
+
+&lt;p&gt;So I called up Apple tech support again, using &lt;a href=&quot;http://ellenflaherty.com&quot;&gt;Ellen&lt;/a&gt;’s new iPhone 5c as my supported device (if she can’t text me, it’s a tech support problem for her, too, I guess). After 10 minutes walking through various steps I’d already taken and others that were completely impractical (Apple Support: “Can you try deleting the contact from your new iPhone and re-adding it?” Me: “I can’t tell everyone I know to delete and re-add me as a contact.”), my tech support person told me that I was breaking up, and that she needed to call me back.&lt;/p&gt;
+
+&lt;p&gt;I hung up; she called me back, then explained:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;This is a problem a lot of people are facing.&lt;/li&gt;
+  &lt;li&gt;The engineering team is working on it but is apparently clueless as to how to fix it.&lt;/li&gt;
+  &lt;li&gt;There are no reliable solutions right now — for some people the standard fixes work immediately; many others are in my boat.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;In the meantime, Apple has completely hijacked my text messaging and my phone number portability (portability between devices, not networks). No one can fix this but Apple because it’s a problem at the device level, which means people in my position have no recourse but to wait for Apple to figure out what the problem is. But Apple isn’t offering any public support on the issue that I’ve been able to find (and it’s worth repeating that proper support is behind a $20 paywall for most people who’ve switched devices, who would also be the most commonly affected by this problem).&lt;/p&gt;
+
+&lt;p&gt;I thought iMessage was pretty novel when Apple launched it. Providers were charging an absurd mark-up on SMS delivery, and the switch between iMessage and SMS was seamless enough to be almost invisible to the user, save the green vs. blue bubbles, which are in their own way a sort of weird social/status indicator (“omg why doesn’t Nathan have an iPhone?”).&lt;/p&gt;
+
+&lt;p&gt;But if it breaks, which it apparently has, it means Apple has crippled an entire medium for communication. Most of my friends have iPhones. My phone number hasn’t changed. But my number is now a black hole for text messages.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Update&lt;/em&gt;: If you’re wondering, &lt;a href=&quot;/how-i%27ve-tried-to-fix-imessage&quot;&gt;here are most of the supposed solutions I’ve tried&lt;/a&gt; with no success.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 13 May 2014 00:00:00 -0400</pubDate>
+        <link>http://adampash.com/imessage-purgatory</link>
+        <guid isPermaLink="true">http://adampash.com/imessage-purgatory</guid>
+      </item>
+    
+      <item>
+        <title>Everything I've tried to stop my texts from disappearing into iMessage</title>
+        <description>&lt;p&gt;I’ve gotten many, many helpful emails and tweets with tips for how to fix my &lt;a href=&quot;/imessage-purgatory/&quot;&gt;iMessage purgatory problem&lt;/a&gt; (people are great). Unfortunately, I’ve already tried everything that people have suggested (so far, at least).&lt;/p&gt;
+
+&lt;p&gt;For the record, I still have my old iPhone, so I can easily swap the SIM card back into it and perform common fixes. Here are at least a few of the things I’ve tried:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Reset my Apple ID password&lt;/li&gt;
+  &lt;li&gt;Turn off iMessage in the Settings app&lt;/li&gt;
+  &lt;li&gt;Log out of Messages and FaceTime on all my devices&lt;/li&gt;
+  &lt;li&gt;Text STOP to 48369&lt;/li&gt;
+  &lt;li&gt;Remove my device from My Support Profile (https://supportprofile.apple.com/)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The phone number in question is not associated with my Apple ID anymore. If I log into my Apple account in the Messages setting, that number doesn’t show up as a send/receive option. But on the iDevices of my friends and family, that number still appears to be associated with iMessage.&lt;/p&gt;
+
+&lt;p&gt;If you’ve got a suggestion I haven’t listed above, let me know! I’ve tried a lot over the past week, so I’m sure there are a couple I’ve forgotten about. I’m also not including terrible solutions, like “have everyone you know delete you as a contact and re-add you” or “have everyone you know delete all previous conversations with you.” Incidentally, I’ve tried these things on Ellen’s phone and she still can’t send me a text.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;update1&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#update1&quot;&gt;&lt;em&gt;Update&lt;/em&gt;&lt;/a&gt;: I was able to fix the problem on a per-phone basis  by doing the following:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Open Settings &amp;gt; Messages.&lt;/li&gt;
+  &lt;li&gt;Toggle iMessage to Off.&lt;/li&gt;
+  &lt;li&gt;Send a text to the black-hole number. (It should send as SMS.)&lt;/li&gt;
+  &lt;li&gt;Turn iMessage back on in Settings &amp;gt; Messages.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Of course, the only phone I have access to is Ellen’s, and I’m not about to ask all of my contacts to do this. At least now Ellen can text me, but that’s nothing close to a solution.&lt;/p&gt;
+
+&lt;p&gt;(I’ll try to update this with any new fixes worth mentioning — and hopefully, eventually, one that works.)&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 May 2014 00:00:00 -0400</pubDate>
+        <link>http://adampash.com/how-i've-tried-to-fix-imessage</link>
+        <guid isPermaLink="true">http://adampash.com/how-i've-tried-to-fix-imessage</guid>
+      </item>
+    
+      <item>
+        <title>And then I was like ...</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/atiwl_adampash.png&quot; alt=&quot;And then I was like ...&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Three months ago, &lt;a href=&quot;http://ellenflaherty.com/&quot;&gt;Ellen&lt;/a&gt; and I soft-launched &lt;a href=&quot;https://andtheniwaslike.co/&quot;&gt;And then I was like&lt;/a&gt;, a web app that lets you make animated gifs with your webcam. Our basic goals were to:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Make something fun.&lt;/li&gt;
+  &lt;li&gt;Try our hands at working together on a project.&lt;/li&gt;
+  &lt;li&gt;Work with some interesting new technologies.&lt;/li&gt;
+  &lt;li&gt;Seed the world with more than the same warmed-over gallery of gifs that make the rounds on tumblr, reframing the gif as a more participatory medium.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I learned a lot from building the site, and then quite a bit more after launching it. This week I took what I learned from how people were using it, did a lot of this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3.amazonaws.com/atiwl/gifs%2F1399482729819-nthgt9wbm1oo5hfr-e50db1cc597e6436ed87d2c31eb52571%2Fblob.gif&quot; alt=&quot;fast typing&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;…and released an update to And then I was like focused on better/faster gif-making.&lt;/p&gt;
+
+&lt;p&gt;Since it launched, I’ve tried four or five different methods for optimizing how the gifs are made and saved, focusing primarily on a workflow that creates gifs as quickly as possible. I’m now using a great JavaScript library called &lt;a href=&quot;http://jnordberg.github.io/gif.js/&quot;&gt;gif.js&lt;/a&gt; to convert the individual frames to a gif on the client side (using web workers), and as a result the process of converting and saving a gif is about ten times faster than at launch (from about 15-20 seconds to 2 seconds or less).&lt;/p&gt;
+
+&lt;p&gt;I’ve also streamlined the process from visiting the site to making a gif. You’re never prompted to sign in (though you can still log in and associate your gifs with an account if you want to).&lt;/p&gt;
+
+&lt;p&gt;When you’re making a gif — in addition to changing the way gifs loop — you can now adjust playback speed (see speedy-typing gif above).&lt;/p&gt;
+
+&lt;p&gt;Last, if you’ve got an Android phone, you can make gifs in Chrome for Android using your phone’s camera.&lt;/p&gt;
+
+&lt;p&gt;If you’re interested in giving it a try, it’s just one click away (no login required). If you’ve got feedback, please &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#104;&amp;#105;&amp;#064;&amp;#097;&amp;#110;&amp;#100;&amp;#116;&amp;#104;&amp;#101;&amp;#110;&amp;#105;&amp;#119;&amp;#097;&amp;#115;&amp;#108;&amp;#105;&amp;#107;&amp;#101;&amp;#046;&amp;#099;&amp;#111;&amp;#063;&amp;#115;&amp;#117;&amp;#098;&amp;#106;&amp;#101;&amp;#099;&amp;#116;&amp;#061;&amp;#089;&amp;#111;&amp;#117;&amp;#037;&amp;#050;&amp;#048;&amp;#097;&amp;#115;&amp;#107;&amp;#101;&amp;#100;&amp;#037;&amp;#050;&amp;#048;&amp;#102;&amp;#111;&amp;#114;&amp;#037;&amp;#050;&amp;#048;&amp;#105;&amp;#116;&quot;&gt;don’t hesitate to share&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://andtheniwaslike.co/gifs/new&quot;&gt;I want to make a gif!&lt;/a&gt;&lt;/h2&gt;
+</description>
+        <pubDate>Fri, 09 May 2014 00:00:00 -0400</pubDate>
+        <link>http://adampash.com/and-then-i-was-like</link>
+        <guid isPermaLink="true">http://adampash.com/and-then-i-was-like</guid>
+      </item>
+    
+      <item>
+        <title>Joel’s Totally Fair Method to Divide Up The Ownership of Any Startup</title>
+        <description>&lt;p&gt;Last year I read a post by &lt;a href=&quot;http://www.joelonsoftware.com/&quot;&gt;Joel Spolsky&lt;/a&gt; regarding startup equity on Stack Overflow’s now-defunct &lt;a href=&quot;http://area51.stackexchange.com/proposals/6243/startup-business#23326&quot;&gt;startup site&lt;/a&gt; and found it to be helpful. While looking for the post earlier today to send to a friend, I learned that the site’s since been discontinued. Luckily the good people at SO offer a &lt;a href=&quot;http://cdn.sstatic.net/area51/datadumps/122013%20Answers%20Onstartups.zip&quot;&gt;data dump of all the Qs and As&lt;/a&gt; from their discontinued sites, so I was able to hunt down this particular Q and A and am republishing it here for my friend and anyone who might be interested in reading it.&lt;/p&gt;
+
+&lt;p&gt;It’s been accused of &lt;a href=&quot;http://www.danshapiro.com/blog/2011/04/startup-cofounder-equity-split/&quot;&gt;oversimplification&lt;/a&gt;, but if nothing else it seems like a decent starting point. So, here it is:&lt;/p&gt;
+
+&lt;h2 id=&quot;the-q&quot;&gt;The Q&lt;/h2&gt;
+&lt;p&gt;I have come up with an idea for a new social networking application. It’s not something I &lt;em&gt;expect&lt;/em&gt; to be hugely successful, but I think it does have some potential. I’ve approached a few close friends and collegues, all of whom really liked the idea. A couple have offered to come on as partners to help develop the idea into a working application.&lt;/p&gt;
+
+&lt;p&gt;I cannot afford to pay them out-of-pocket for their time (nor do they expect that), and we’re all approaching this as a project we’ll do on our nights and weekends. Since I think the idea does have the potential to turn into a successful venture, I want to go ahead and solve the ownership/payment issue now before it becomes an issue. I’m leaning towards splitting ownership of the idea among the three of us, and letting that determine how any profits are split later on. Is this the right choice, and if so, what’s a fair split? I came up with the idea and have already invested quite a bit of time planning it out (plus I’m sure I’ll pay any incidental development expenses out of my pocket), so I feel like I should definitely have a larger share of the ownership. Is that reasonable?&lt;/p&gt;
+
+&lt;p&gt;I’m also trying to think of some way to reward partners based on effort. I’m not worried about someone signing on then doing nothing, but I do think it’s quite possible that one (or more) of us might obsess about the project and put in significantly more effort. If that happens, I think that person should get a proportionately larger share. Any suggestions on how to structure that?&lt;/p&gt;
+
+&lt;h2 id=&quot;the-a&quot;&gt;The A&lt;/h2&gt;
+&lt;p&gt;This is such a common question here and elsewhere that I will attempt to write the world’s most canonical answer to this question. Hopefully in the future when someone on answers.onstartups asks how to split up the ownership of their new company, you can simply point to this answer.&lt;/p&gt;
+
+&lt;p&gt;The most important principle: &lt;strong&gt;Fairness, and the perception of fairness, is much more valuable than owning a large stake.&lt;/strong&gt; Almost &lt;em&gt;everything&lt;/em&gt; that can go wrong in a startup will go wrong, and one of the biggest things that can go wrong is huge, angry, shouting matches between the founders as to who worked harder, who owns more, whose idea was it anyway, etc. That is why I would always rather split a new company 50-50 with a friend than insist on owning 60% because “it was my idea,” or because “I was more experienced” or anything else. Why? Because if I split the company 60-40, &lt;em&gt;the company is going to fail when we argue ourselves to death.&lt;/em&gt; And if you just say, “to heck with it, we can NEVER figure out what the correct split is, so let’s just be pals and go 50-50,” you’ll stay friends and the company will survive.&lt;/p&gt;
+
+&lt;p&gt;Thus, I present you with &lt;strong&gt;Joel’s Totally Fair Method to Divide Up The Ownership of Any Startup.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;For simplicity sake, I’m going to start by assuming that you are not going to raise venture capital and you are not going to have outside investors. Later, I’ll explain how to deal with venture capital, but for now assume no investors.&lt;/p&gt;
+
+&lt;p&gt;Also for simplicity sake, let’s temporarily assume that the founders all quit their jobs and start working on the new company full time at the same time. Later, I’ll explain how to deal with founders who do not start at the same time.&lt;/p&gt;
+
+&lt;p&gt;Here’s the principle. As your company grows, you tend to add people in “layers”.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;The top layer is the first founder or founders. There may be 1, 2, 3, or more of you, but you all start working about the same time, and you all take the same risk… quitting your jobs to go work for a new and unproven company.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The second layer is the first real employees. By the time you hire this layer, you’ve got cash coming in from somewhere (investors or customers–doesn’t matter). These people didn’t take as much risk because they got a salary from day one, and honestly, they didn’t &lt;em&gt;start&lt;/em&gt; the company, they &lt;em&gt;joined&lt;/em&gt; it as a job.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The third layer are later employees. By the time they joined the company, it was going pretty well.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For many companies, each “layer” will be approximately one year long. By the time your company is big enough to sell to Google or go public or whatever, you probably have about 6 layers: the founders and roughly five layers of employees. Each successive layer is larger. There might be two founders, five early employees in layer 2, 25 employees in layer 3, and 200 employees in layer 4. &lt;strong&gt;The later layers took less risk.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;OK, now here’s how you use that information:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The founders should end up with about 50% of the company, total. Each of the next five layers should end up with about 10% of the company, split equally among everyone in the layer.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Example:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Two founders start the company. They each take 2500 shares. There are 5000 shares outstanding, so each founder owns half.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;They hire four employees in year one. These four employees each take 250 shares. There are 6000 shares outstanding.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;They hire another 20 employees in year two. Each one takes 50 shares. They get fewer shares because they took less risk, and they get 50 shares because we’re giving each layer 1000 shares to divide up.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;By the time the company has six layers, you have given out 10,000 shares. Each founder ends up owning 25%. Each employee layer owns 10% collectively. The earliest employees who took the most risk own the most shares.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Make sense? You don’t have to follow this exact formula but the basic idea is that you set up “stripes” of seniority, where the top stripe took the most risk and the bottom stripe took the least, and each “stripe” shares an equal number of shares, which magically gives employees more shares for joining early.&lt;/p&gt;
+
+&lt;p&gt;A slightly different way to use the stripes is for seniority. Your top stripe is the founders, below that you reserve a whole stripe for the fancy CEO that you recruited who insisted on owning 10%, the stripe below that is for the early employees and also the top managers, etc. However you organize the stripes, it should be simple and clear and easy to understand and not prone to arguments.&lt;/p&gt;
+
+&lt;p&gt;Now that we have a fair system set out, there is one important principle. &lt;strong&gt;You must have vesting.&lt;/strong&gt; Preferably 4 or 5 years. Nobody earns their shares until they’ve stayed with the company for a year. A good vesting schedule is 25% in the first year, 2% each additional month. Otherwise your co-founder is going to quit after three weeks and show up, 7 years later, claiming he owns 25% of the company. It &lt;strong&gt;never&lt;/strong&gt; makes sense to give anyone equity without vesting. This is an extremely common mistake and it’s terrible when it happens. You have these companies where 3 cofounders have been working day and night for five years, and then you discover there’s some jerk that quit after two weeks and he still thinks he owns 25% of the company for his two weeks of work.&lt;/p&gt;
+
+&lt;p&gt;Now, let me clear up some little things that often complicate the picture.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What happens if you raise an investment?&lt;/strong&gt; The investment can come from anywhere… an angel, a VC, or someone’s dad. Basically, the answer is simple: the investment just dilutes everyone.&lt;/p&gt;
+
+&lt;p&gt;Using the example from above… we’re two founders, we gave ourselves 2500 shares each, so we each own 50%, and now we go to a VC and he offers to give us a million dollars in exchange for 1/3rd of the company.&lt;/p&gt;
+
+&lt;p&gt;1/3rd of the company is 2500 shares. So you make another 2500 shares and give them to the VC. He owns 1/3rd and you each own 1/3rd. That’s all there is to it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What happens if not all the early employees need to take a salary?&lt;/strong&gt; A lot of times you have one founder who has a little bit of money saved up, so she decides to go without a salary for a while, while the other founder, who needs the money, takes a salary. It is tempting just to give the founder who went without pay more shares to make up for it. The trouble is that you can never figure out the right amount of shares to give. This is just going to cause conflicts. &lt;strong&gt;Don’t resolve these problems with shares.&lt;/strong&gt; Instead, just keep a ledger of how much you paid each of the founders, and if someone goes without salary, give them an IOU. Later, when you have money, you’ll pay them back in cash. In a few years when the money comes rolling in, or even after the first VC investment, you can pay back each founder so that each founder has taken exactly the same amount of salary from the company.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Shouldn’t I get more equity because it was my idea?&lt;/strong&gt; No. Ideas are pretty much worthless. It is not worth the arguments it would cause to pay someone in equity for an idea. If one of you had the idea but you both quit your jobs and started working at the same time, you should both get the same amount of equity. Working on the company is what causes value, not thinking up some crazy invention in the shower.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What if one of the founders doesn’t work full time on the company?&lt;/strong&gt; Then they’re not a founder. In my book nobody who is not working full time counts as a founder. Anyone who holds on to their day job gets a salary or IOUs, but not equity. If they hang onto that day job until the VC puts in funding and then comes to work for the company full time, they didn’t take nearly as much risk and they deserve to receive equity along with the first layer of employees.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What if someone contributes equipment or other valuable goods (patents, domain names, etc) to the company?&lt;/strong&gt; Great. Pay for that in cash or IOUs, not shares. Figure out the right price for that computer they brought with them, or their clever word-processing patent, and give them an IOU to be paid off when you’re doing well. Trying to buy things with equity at this early stage just creates inequality, arguments, and unfairness.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How much should the investors own vs. the founders and employees?&lt;/strong&gt; That depends on market conditions. Realistically, if the investors end up owning more than 50%, the founders are going to feel like sharecroppers and lose motivation, so good investors don’t get greedy that way. If the company can bootstrap without investors, the founders and employees might end up owning 100% of the company. Interestingly enough, the pressure is pretty strong to keep things balanced between investors and founders/employees; an old rule of thumb was that at IPO time (when you had hired all the employees and raised as much money as you were going to raise) the investors would have 50% and the founders/employees would have 50%, but with hot Internet companies in 2011, investors may end up owning a lot less than 50%.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;There is no one-size-fits-all solution to this problem, but anything you can do to make it simple, transparent, straightforward, and, above-all, fair, will make your company much more likely to be successful.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 25 Feb 2014 00:00:00 -0500</pubDate>
+        <link>http://adampash.com/joels-totally-fair-method</link>
+        <guid isPermaLink="true">http://adampash.com/joels-totally-fair-method</guid>
+      </item>
+    
+      <item>
+        <title>Lifeinvader</title>
+        <description>&lt;p&gt;In 2005, Lifehacker launched with the logo you see below, designed by &lt;a href=&quot;http://patricking.com/&quot;&gt;Patric King&lt;/a&gt;.&lt;sup id=&quot;fnref:Patric&quot;&gt;&lt;a href=&quot;#fn:Patric&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/lifehacker-logo.png&quot; alt=&quot;Original Lifehacker logo courtesy of the Wayback Machine&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Last week, a little lonely for Los Angeles, I bought and started playing Grand Theft Auto V. I was dumbfounded when I saw this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/lifeinvader.jpg&quot; alt=&quot;Lifeinvader logo from GTA V&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lifeinvader, in GTA’s consistent brand of shallow, nihilistic parody, is the Facebook of the Los Santos universe.&lt;/p&gt;
+
+&lt;p&gt;There’s absolutely no reason for the connection other than the obvious (the words “Lifeinvader” and “Lifehacker” look alike), but after staring at different variations of that logo every work day for seven years, seeing Lifehacker make its way to the cultural soup of GTA put a pretty big smile on my face.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:Patric&quot;&gt;
+      &lt;p&gt;Patric provided the initial designs for &lt;a href=&quot;http://houseofpretty.com/&quot;&gt;a handful of Gawker sites&lt;/a&gt; (update: make that &lt;a href=&quot;https://twitter.com/patricking/status/393868252222205952&quot;&gt;most of them&lt;/a&gt;), including Defamer (2004), Jezebel (2007) and io9 (2008). &lt;a href=&quot;#fnref:Patric&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 25 Oct 2013 00:00:00 -0400</pubDate>
+        <link>http://adampash.com/lifeinvader</link>
+        <guid isPermaLink="true">http://adampash.com/lifeinvader</guid>
+      </item>
+    
+      <item>
+        <title>Hacker School</title>
+        <description>&lt;p&gt;I took two introductory Computer Science courses between 2002 and 2003 while attending college at the University of Iowa. I hadn’t declared a major, loved working with computers, and hoped that that might translate into a career, of some sort, in technology. Or at least a major, which — after two undeclared years — was about as far ahead as I was planning at the time.&lt;/p&gt;
+
+&lt;p&gt;It did not. The first course was terrible. I crossed my fingers that it was an exception and took another CS class the next semester with similar results. People who had prior programming experience seemed comfortable, but the rest of us were completely lost, and I can confidently say I learned nothing from either course.&lt;/p&gt;
+
+&lt;p&gt;I managed to avoid ever choosing a major (opting instead to create an interdepartmental studies curriculum focused mostly on philosophy &lt;sup id=&quot;fnref:symbolic&quot;&gt;&lt;a href=&quot;#fn:symbolic&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; and religion that also suited my interests at the time), graduated, spent a summer working at &lt;a href=&quot;http://www.bluebunny.com/&quot;&gt;an ice cream factory in Le Mars, Iowa&lt;/a&gt;, and moved to Los Angeles with &lt;a href=&quot;https://twitter.com/paulrust&quot;&gt;my friend Paul&lt;/a&gt; in August of 2004.&lt;/p&gt;
+
+&lt;p&gt;Having no idea what kind of job I wanted, I got work &lt;a href=&quot;http://en.wikipedia.org/wiki/The_Real_Gilligan&#39;s_Island&quot;&gt;logging footage for a reality show&lt;/a&gt; (great job, btw) before taking a job as a consultant for the consulting branch of Hitachi — again thinking, “Hey, I still like technology; maybe I’ll like this.”&lt;/p&gt;
+
+&lt;p&gt;I did not. I enjoyed applying a well-thought-out formula to an Excel spreadsheet, but not enough to stick around. In the spring of 2005, after six months with Hitachi, I quit.&lt;/p&gt;
+
+&lt;p&gt;The whole blogging thing was really taking off back then, and I decided I’d try my hand at “writing on the internet.” (That’s what I called it back then owing to the fact that, then and now, I was never able to call myself a blogger because it felt silly. Much better to say “I write things on the internet,” obviously.) I’d become unusually obsessed with a blog called &lt;a href=&quot;http://lifehacker.com&quot;&gt;Lifehacker&lt;/a&gt; that had launched a few months earlier, while I was still at Hitachi. More than anything, I was attracted to the straightforward, beginner-friendly guides to doing fairly esoteric, geeky things like &lt;a href=&quot;http://lifehacker.com/124212/geek-to-live--how-to-set-up-a-personal-home-web-server&quot;&gt;setting up a home server&lt;/a&gt; or &lt;a href=&quot;http://lifehacker.com/125607/geek-to-live--how-to-control-your-home-computer-from-anywhere&quot;&gt;remotely controlling your computer&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;So in August of 2005, when Lifehacker’s founding editor &lt;a href=&quot;https://twitter.com/ginatrapani&quot;&gt;Gina Trapani&lt;/a&gt; posted a listing for two associate editors, my palms dampened and I fired off my email application (which contained, I still remember with terror, a benign but idiotic typo). I had been applying to a lot of jobs at the time, but that night I told my significant other that I had just applied for a Dream Job.&lt;/p&gt;
+
+&lt;p&gt;I did not get the job. Two other editors were hired, and I took a job at a &lt;a href=&quot;http://www.thesportsmanchannel.com/programming/descriptions/description.php?ID=579&quot;&gt;Ted Nugent-based reality TV show&lt;/a&gt;. While at work, I used my Lifehacker-inspired remote access setup to write and hack on a WordPress blog I’d put together, learning a tiny bit in the process about copying and pasting snippets of PHP.&lt;/p&gt;
+
+&lt;p&gt;A few months later, Gina emailed me to ask if I was still interested in the job at Lifehacker. I said yes, and spent the next several months pretending I knew way more about technology, computers, and the internet than I did, until eventually I did know a little about those things. In my spare time, I continued pushing my limited coding skills, first learning a little HTML/CSS/PHP, &lt;sup id=&quot;fnref:streaming&quot;&gt;&lt;a href=&quot;#fn:streaming&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; then trying out an obscure Windows scripting language called AutoHotkey, &lt;sup id=&quot;fnref:ahk&quot;&gt;&lt;a href=&quot;#fn:ahk&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; and eventually learning Ruby, JavaScript, and a smattering of other languages and frameworks along the way. &lt;sup id=&quot;fnref:other&quot;&gt;&lt;a href=&quot;#fn:other&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;I spent the next seven years, in my spare time, falling in love with programming. Days at Lifehacker (first as an associate editor, which is what we now call a “writer,” eventually as editor-in-chief), nights coding.&lt;/p&gt;
+
+&lt;p&gt;I left Lifehacker at the beginning of this year and joined a startup. I left that startup at the beginning of this month (another post) with one very specific goal in mind: I want to become a much better coder, and I want to spend my time making things with code.&lt;/p&gt;
+
+&lt;p&gt;For twelve weeks, starting next Monday, September 30, I’ll be attending &lt;a href=&quot;https://www.hackerschool.com/&quot;&gt;Hacker School&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Hacker School is a three-month, full-time school in New York for becoming a better programmer. We’re &lt;a href=&quot;http://en.wikipedia.org/wiki/Free_as_in_beer&quot;&gt;free as in beer&lt;/a&gt;, and provide space, a little structure, time to focus, and a friendly community of smart builders dedicated to self-improvement.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;My decision to attend is the culmination of years of slowly inching toward a career spent making things with code.&lt;/p&gt;
+
+&lt;p&gt;Wish me luck.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:symbolic&quot;&gt;
+      &lt;p&gt;Incidentally, I was in love with my symbolic logic courses. If I had known then that the enjoyment I felt working out a logic proof is nearly identical to the enjoyment I experience coding… &lt;a href=&quot;#fnref:symbolic&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:streaming&quot;&gt;
+      &lt;p&gt;I used my home server to stream music from my home computer to other computers via the web. &lt;a href=&quot;#fnref:streaming&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:ahk&quot;&gt;
+      &lt;p&gt;I wrote and released several open-source apps on Lifehacker that I wrote in AHK, including &lt;a href=&quot;http://lifehacker.com/238306/lifehacker-code-texter-windows&quot;&gt;Texter&lt;/a&gt; and &lt;a href=&quot;http://lifehacker.com/341950/belvedere-automates-your-self+cleaning-pc&quot;&gt;Belvedere&lt;/a&gt;. At one point Texter was deployed to ~10,000 Army doctors, which blew my mind. &lt;a href=&quot;#fnref:ahk&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:other&quot;&gt;
+      &lt;p&gt;The biggest project I released during this time was &lt;a href=&quot;http://mixtape.me&quot;&gt;MixTape.me&lt;/a&gt; (2009), a music streaming/playlist sharing service that taught me &lt;a href=&quot;http://lifehacker.com/5336113/how-to-build-a-web-application-from-scratch-with-no-experience&quot;&gt;a lot about building software&lt;/a&gt;. I also built a custom chatroom that Lifehacker’s distributed team still uses daily. More recently I released a fairly popular &lt;a href=&quot;https://chrome.google.com/webstore/detail/music-plus-for-google-pla/ipfnecmlncaiipncipkgijboddcdmego?hl=en-US&quot;&gt;extension for Google Music&lt;/a&gt;, and I’ve got several projects I’m currently working on in my spare time. &lt;a href=&quot;#fnref:other&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 27 Sep 2013 00:00:00 -0400</pubDate>
+        <link>http://adampash.com/hacker-school</link>
+        <guid isPermaLink="true">http://adampash.com/hacker-school</guid>
+      </item>
+    
+      <item>
+        <title>300 days of horse twerking</title>
+        <description>&lt;p&gt;&lt;em&gt;This post is about authenticity on the internet in relation to Horse_ebooks, twerk fail, 40 Days of Dating, and 300 Sandwiches.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The internet is having a fresh moment of discomfort with authenticity.&lt;/p&gt;
+
+&lt;p&gt;On Monday, Susan Orlean &lt;a href=&quot;http://www.newyorker.com/online/blogs/elements/2013/09/horse-ebooks-and-pronunciation-book-revealed.html&quot;&gt;revealed the non-bot identity of Horse_ebooks&lt;/a&gt; — a two-million-follower popular Twitter account largely believed to be a bot — resulting in a cascade of &lt;a href=&quot;http://www.theawl.com/2013/09/everything-on-the-internet-is-fake-and-connected-and-sucks-and-we-are-pawns-ugh&quot;&gt;troubled&lt;/a&gt; &lt;a href=&quot;https://twitter.com/max_read/status/382669012016320512&quot;&gt;reactions&lt;/a&gt; and some &lt;a href=&quot;http://thesocietypages.org/cyborgology/2013/09/25/unfortunately-as-you-probably-already-know-people/&quot;&gt;extraordinary and thoughtful analysis&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Earlier this month, Jimmy Kimmel “tricked the internet” with an &lt;a href=&quot;http://www.youtube.com/watch?feature=player_embedded&amp;amp;v=CddMD3QqTFs&quot;&gt;fake twerk fail video&lt;/a&gt; that grabbed some nine million views before Kimmel &lt;a href=&quot;http://www.youtube.com/watch?v=HSJMoH7tnvw&quot;&gt;let everyone in on the joke&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Both Horse_ebooks and the twerk fail video had skeptics, but by and large they were assumed to be “real,” and their respective reveals got a lot of people very worked up.&lt;/p&gt;
+
+&lt;p&gt;The internet as a mass media machine is still pretty young, and I think much of the reason authenticity is still an issue is due to that newness. We’re by no means, for example, uncomfortable living in an authenticity gray area when it comes to things like reality TV. You don’t have to be a sophisticated viewer to understand that much of what you’re seeing on most reality TV is only real to the extent that the people are real (like, they’re using their real names) but that many of their interactions are scripted or manipulated to tell a story that’s not exactly real.&lt;/p&gt;
+
+&lt;p&gt;But reality TV is also a nicely demarcated genre (with sub-genres), so we can label and compartmentalize it with expectations that are consistent with its pseudo-authenticity. Head to YouTube, though, and you can find an abundance of “real” but uninteresting twerking videos; similarly, Horse_ebooks appeared to be a &lt;a href=&quot;https://twitter.com/max_read/status/382883530176733184&quot;&gt;beacon of profound signal&lt;/a&gt; among the noise of its fellow Twitter bots.&lt;/p&gt;
+
+&lt;p&gt;I’ve gotten into &lt;a href=&quot;https://twitter.com/adampash/status/376120179237085184&quot;&gt;small arguments&lt;/a&gt; about the extent to which authenticity should impact your enjoyment of the thing itself. In the twerking video, a real woman really caught on fire after twerking. (Ha?) The Horse’s word soup delivered profound moments of poetry, whether or not the ingredients were human- or machine-chosen.&lt;/p&gt;
+
+&lt;p&gt;I think it’s easy to identify why people would prefer that both were “real” — there’s something special about finding moments of order in chaos. It’s like experiencing creation second-hand. A YouTube search &lt;a href=&quot;http://www.youtube.com/results?search_query=twerking&amp;amp;page=&amp;amp;utm_source=opensearch&quot;&gt;for twerking&lt;/a&gt; has an astounding 3,230,000 results. To most of people, 99% of them are noise. The joy is in discovering the transcendent video among the banal. (Not that I think Kimmel’s video was transcendent to begin with, but it was to a lot of people.) The thing is special because it is real. Because a moment of randomness created this thing. &lt;sup id=&quot;fnref:randomness&quot;&gt;&lt;a href=&quot;#fn:randomness&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;This genre isn’t reality TV, though. It’s essentially the &lt;em&gt;America’s Funniest Home Videos&lt;/em&gt; genre. Kimmel’s twerk video was an &lt;em&gt;America’s Funniest People&lt;/em&gt; video masquerading as &lt;em&gt;AFV&lt;/em&gt;, and everyone knows &lt;em&gt;AFP&lt;/em&gt; is fundamentally inferior to &lt;em&gt;AFV&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;But there is a reality TV corollary doing quite well on the internet at the moment. It exists in the form of attention-getting gambits like &lt;a href=&quot;http://fortydaysofdating.com/&quot;&gt;40 Days of Dating&lt;/a&gt; and &lt;a href=&quot;http://300sandwiches.com/&quot;&gt;300 Sandwiches&lt;/a&gt;. The former involved two friends/very successful graphic designers dating as an experiment for 40 days. The latter involves a woman who’s boyfriend tells her he’ll marry her if she makes him 300 sandwiches.&lt;/p&gt;
+
+&lt;p&gt;Both were taken seriously, as though they were actually real things that real people were doing for themselves or for art and not for the purpose of selling a movie or TV show, which &lt;a href=&quot;http://www.deadline.com/2013/09/warner-bros-buys-rights-to-40-days-of-dating-blog-michael-sucsy-to-direct-film/&quot;&gt;40 Days did quite successfully&lt;/a&gt;. That’s fine; the internet is a great place to get old media money spent on new media trends. &lt;sup id=&quot;fnref:oldmedia&quot;&gt;&lt;a href=&quot;#fn:oldmedia&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;The 300 Sandwiches woman may not be so lucky, mostly because I think she &lt;a href=&quot;http://gawker.com/bitch-make-me-300-sandwiches-orders-beautiful-woman-1383577562&quot;&gt;miscalculated the reaction&lt;/a&gt; people would have to an absurdly regressive gimmick, but the intention is clear. She doesn’t truly believe that making sandwiches will get her a husband. Her straight-from-the-archives-of-Carrie-Bradshaw writing should make her intentions pretty clear:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Was our happily ever after as simple as making him a few sandwiches?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Great question! No, it’s not that simple! But you already knew that. Unless by “happily ever after” you meant “financial success through selling the rights to my list of sandwiches,” in which case, maybe. Your odds don’t look as good as 40 Days, but we also live in a world where Seth MacFarlane has 800 shows currently in production, so this might just work out for you.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Anyway, I’ve talked myself into a corner. I don’t have any grand takeaway. At a gut level, I’m completely convinced that authenticity matters, or at least clarity of authenticity. Like most people, I don’t like being duped. Years of working on the internet have also made me pretty cynical, so my initial assumption is that everything is fake until proven otherwise.&lt;/p&gt;
+
+&lt;p&gt;Then again, art doesn’t really care about my discomfort or my gut — or rather, it’s supposed to challenge my gut — and that’s to the benefit of everyone. So… I don’t know. Horse_ebooks is still fun to read. I’d probably watch a 40 Days of Dating movie because I like romantic comedies even though there are so few good ones. I can’t find much to like about Kimmel’s twerking (before or after the reveal) or 300 sandwiches.&lt;/p&gt;
+
+&lt;p&gt;Well, except that &lt;em&gt;SATC&lt;/em&gt; line. That was pretty hilarious.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:randomness&quot;&gt;
+      &lt;p&gt;I suppose you could say that everything created by humans is the product of randomness on a grander, cosmic scale, but if that’s the level you’re operating on, don’t waste your time on this post. Go start a religion or something. &lt;a href=&quot;#fnref:randomness&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:oldmedia&quot;&gt;
+      &lt;p&gt;There was the blog-to-book, then Twitter-to-TV, and now maybe we’re in a listicle-to-movie era. &lt;a href=&quot;#fnref:oldmedia&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 26 Sep 2013 00:00:00 -0400</pubDate>
+        <link>http://adampash.com/300-days-of-horse-twerk-fails</link>
+        <guid isPermaLink="true">http://adampash.com/300-days-of-horse-twerk-fails</guid>
+      </item>
+    
+      <item>
+        <title>I'm blogging again</title>
+        <description>&lt;p&gt;Hi internet! I’ve got news:&lt;/p&gt;
+
+&lt;p&gt;I’m blogging again!&lt;/p&gt;
+
+&lt;p&gt;I haven’t written anything on you longer than 140 characters since I &lt;a href=&quot;http://lifehacker.com/5973647/it-was-pash-like-cash&quot;&gt;left Lifehacker&lt;/a&gt; at the beginning of this year, and while you may not have noticed my absence, I certainly have, and I’ve missed you. I’ve considered doing some freelance writing, but to do that, I’d have to write something a publication is certain its readers will care about. That’s not what this blog is.&lt;/p&gt;
+
+&lt;p&gt;Instead, this is a blog in the early-2000s sense. A personal blog. I hope that you’ll find a lot of it interesting, but ultimately the focus will be on “things Adam is interested in.” Maybe we’ll find some overlap!&lt;/p&gt;
+
+&lt;p&gt;Here are three promises I make to you, internet reader, should you choose to read the occasional post here:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I won’t break news, but I may write a thoughtful post about something happening in technology or culture, and you might feel compelled to share it along with some words of praise, like “smart take.” I won’t make fun of you for resorting to a Twitter cliché; that’s a super nice thing to say, and anyway, I’ll be thrilled you liked it!&lt;/li&gt;
+  &lt;li&gt;I won’t clog your newsreader (which is what we call them again because you can’t use Google Reader anymore) with hundreds of posts a week. I plan on writing roughly one post every week, so you can &lt;a href=&quot;http://adampash.com/feed.xml&quot;&gt;subscribe to my feed&lt;/a&gt; without considering it a serious commitment.&lt;/li&gt;
+  &lt;li&gt;From time to time I may say something stupid. Sorry about that. I promise that at the time I wrote it, I thought it was a previously mentioned “smart take,” or at least thought there was some truth to what I was saying. I’ll try to do better next time.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You know how some people write posts on Facebook, Tumblr, and even Medium? This is exactly like that, except it’s owned by me and served from the adampash.com domain. Your browser will never notice the difference!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 Sep 2013 00:00:00 -0400</pubDate>
+        <link>http://adampash.com/im-blogging-again</link>
+        <guid isPermaLink="true">http://adampash.com/im-blogging-again</guid>
+      </item>
+    
+  </channel>
+</rss>

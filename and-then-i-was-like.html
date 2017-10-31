@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>And then I was like ...</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <!-- twitter card -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@adampash">
+  <meta name="twitter:creator" content="@adampash">
+  <meta name="twitter:title" content="And then I was like ...">
+  <meta name="twitter:description" content="Three months ago, Ellen and I soft-launched And then I was like, a web app that lets you make animated gifs with your webcam. Our...">
+  <meta name="twitter:domain" content="http://adampash.com">
+
+  <!-- syntax highlighting CSS -->
+  <link rel="stylesheet" href="/css/syntax.css">
+
+  <link rel="alternate" type="application/rss+xml" title="Adam Pash" href="http://adampash.com/feed.xml">
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/css/blog.css">
+
+  <!-- Google Analytics -->
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-24867262-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+</head>
+<body>
+
+  <div class="container">
+    <div id="sidebar" class="col-md-4" data-spy="affix">
+      <h1 class="col-xs-12 col-md-9">
+        <a href="/">
+          Adam Pash
+        </a>
+      </h1>
+      <h2 class="about col-xs-1  col-md-4">
+        <a href="/about">About</a>
+      </h2>
+    </div>
+    <div class="col-md-4">
+
+    </div>
+    <div id="main" class="col-md-6">
+      <div class="post">
+  <h2>
+    <a href="">
+      And then I was like ...
+    </a>
+  </h2>
+
+  <div class="entry_body">
+    <p><img src="/assets/atiwl_adampash.png" alt="And then I was like ..." /></p>
+
+<p>Three months ago, <a href="http://ellenflaherty.com/">Ellen</a> and I soft-launched <a href="https://andtheniwaslike.co/">And then I was like</a>, a web app that lets you make animated gifs with your webcam. Our basic goals were to:</p>
+
+<ol>
+  <li>Make something fun.</li>
+  <li>Try our hands at working together on a project.</li>
+  <li>Work with some interesting new technologies.</li>
+  <li>Seed the world with more than the same warmed-over gallery of gifs that make the rounds on tumblr, reframing the gif as a more participatory medium.</li>
+</ol>
+
+<p>I learned a lot from building the site, and then quite a bit more after launching it. This week I took what I learned from how people were using it, did a lot of this:</p>
+
+<p><img src="https://s3.amazonaws.com/atiwl/gifs%2F1399482729819-nthgt9wbm1oo5hfr-e50db1cc597e6436ed87d2c31eb52571%2Fblob.gif" alt="fast typing" /></p>
+
+<p>…and released an update to And then I was like focused on better/faster gif-making.</p>
+
+<p>Since it launched, I’ve tried four or five different methods for optimizing how the gifs are made and saved, focusing primarily on a workflow that creates gifs as quickly as possible. I’m now using a great JavaScript library called <a href="http://jnordberg.github.io/gif.js/">gif.js</a> to convert the individual frames to a gif on the client side (using web workers), and as a result the process of converting and saving a gif is about ten times faster than at launch (from about 15-20 seconds to 2 seconds or less).</p>
+
+<p>I’ve also streamlined the process from visiting the site to making a gif. You’re never prompted to sign in (though you can still log in and associate your gifs with an account if you want to).</p>
+
+<p>When you’re making a gif — in addition to changing the way gifs loop — you can now adjust playback speed (see speedy-typing gif above).</p>
+
+<p>Last, if you’ve got an Android phone, you can make gifs in Chrome for Android using your phone’s camera.</p>
+
+<p>If you’re interested in giving it a try, it’s just one click away (no login required). If you’ve got feedback, please <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#104;&#105;&#064;&#097;&#110;&#100;&#116;&#104;&#101;&#110;&#105;&#119;&#097;&#115;&#108;&#105;&#107;&#101;&#046;&#099;&#111;&#063;&#115;&#117;&#098;&#106;&#101;&#099;&#116;&#061;&#089;&#111;&#117;&#037;&#050;&#048;&#097;&#115;&#107;&#101;&#100;&#037;&#050;&#048;&#102;&#111;&#114;&#037;&#050;&#048;&#105;&#116;">don’t hesitate to share</a>.</p>
+
+<h2 style="text-align: center"><a href="https://andtheniwaslike.co/gifs/new">I want to make a gif!</a></h2>
+
+  </div>
+  <div class="meta">
+      <div class="date">
+        <a href="">
+          May  9, 2014
+        </a>
+      </div>
+      <br />
+      <div class="date">
+        Got feedback? Send an email to [first.last] at gmail.com or tweet <a href="https://twitter.com/adampash">@adampash</a>.
+      </div>
+  </div>
+</div>
+
+<!-- <script> -->
+<!--   (function() { -->
+<!--     $.ajax( -->
+<!--       { -->
+<!--         url: 'http://analytic.adampash.com', -->
+<!--         type: 'PUT', -->
+<!--         data: {url: window.location.href} -->
+<!--       } -->
+<!--     ).done(function(data) { -->
+<!--       console.log(data); -->
+<!--     }); -->
+<!--   }).call(this); -->
+<!-- </script> -->
+
+    </div>
+  </div>
+
+
+  <script src="/javascripts/jquery.js"></script>
+  <script src="/javascripts/bootstrap.js"></script>
+  <script src="/javascripts/posts.js"></script>
+  <script src="/javascripts/count.js"></script>
+</body>
+</html>
