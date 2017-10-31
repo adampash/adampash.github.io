@@ -17,7 +17,7 @@ Next, open up a Terminal and do the following:
 
 {% highlight bash %}
 # install Homebrew http://brew.sh/ if you don't already have it 
-ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" 
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" 
 
 # tap the science formulae
 brew tap homebrew/science
