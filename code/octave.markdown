@@ -25,17 +25,21 @@ brew tap homebrew/science
 # install some Octave dependencies
 # the update/upgrade command below could take a while
 brew update && brew upgrade
-brew install gcc
+brew install gcc # or 'brew reinstall gcc' if you have an older gcc without gfortran in it
 
 # You may also need to install mactex (see http://tex.stackexchange.com/questions/97183/what-are-the-practical-differences-between-installing-latex-from-mactex-or-macpo)
-brew install Caskroom/cask/mactex
+# The download here takes a while...
+brew cask install mactex 
 export PATH=$PATH:/usr/texbin
+
+# install X11 
+brew cask install xquartz
+
+# install gnuplot
+brew install gnuplot --with-x11
 
 # install octave
 brew install octave --with-x11
-
-# install fltk for gnuplot
-brew install fltk
 {% endhighlight %}
 
 # you might need to install legacy Java 6 runtime
